@@ -107,12 +107,13 @@ The corpus supports:
 
 ## Quickstart
 
-```bash
-# install dependencies
-pip install -e .
+```
 
-# run demo pipeline
-python run_demo.py
+The runnable pipeline and evaluation scripts are currently under development.
+
+Configuration files are located in `configs/`.  
+Core modules are implemented under `src/`.
+
 ```
 
 ## Repository Structure
